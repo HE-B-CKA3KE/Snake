@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra/6kMG312bDFD6qdnvYeaPVrXkK/6rO1cjJOoE72sZHIUqZCxWbQBitrBv16LjCR4dSq2MHdu1hnSBexfb3RQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Snake\\Snake.App.Models\\Snake.App.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\boghd\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
